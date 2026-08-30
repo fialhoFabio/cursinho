@@ -180,13 +180,13 @@ $$
 Para representar em porcentagem:
 
 $$  
-\boxed{\eta(%) = \frac{E_{útil}}{E_{total}}\cdot100}  
+\boxed{\eta = \frac{E_{útil}}{E_{total}}\cdot100} 
 $$
 
 ou:
 
 $$  
-\boxed{\eta(%) = \frac{P_{útil}}{P_{total}}\cdot100}  
+\boxed{\eta = \frac{P_{útil}}{P_{total}}\cdot100}  
 $$
 
 O rendimento está entre:

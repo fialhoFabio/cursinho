@@ -1,6 +1,6 @@
 ## Conceito
 
-A fila de reatividade organiza os elementos de acordo com sua **tendência de participar de reações químicas**, especialmente [[Reação de simples troca|reações de simples troca]].
+A fila de reatividade organiza os elementos de acordo com sua **tendência de participar de reações químicas**, especialmente [[Reações de simples troca|reações de simples troca]].
 
 Regra:
 
@@ -100,7 +100,7 @@ $$
 
 ## Relacionado
 
-- [[Reação de simples troca]]
+- [[Reações de simples troca]]
 - [[Oxirredução]]
 - [[Metais]]
 - [[Halogênios]]
