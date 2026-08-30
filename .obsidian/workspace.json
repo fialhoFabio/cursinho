@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9c7f43386958cff7",
+        "id": "81cbc1fc065c6b03",
         "type": "tabs",
         "children": [
           {
-            "id": "8925390d14ac7648",
+            "id": "bdb4b836e96256b9",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "02 - Física/Física B/Potência e Rendimento.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Potência e Rendimento"
             }
           }
         ]
@@ -159,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 - Física/Física B/Potência e Rendimento.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,8 +200,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8925390d14ac7648",
+  "active": "bdb4b836e96256b9",
   "lastOpenFiles": [
+    "02 - Física/Física B/Energia.md",
+    "02 - Física/Física B/Potência e Rendimento.md",
+    "Energia Potencial Elástica.md",
+    "02 - Física/Física B/Trabalho.md",
+    "02 - Física/Física B/Aceleração.md",
+    "02 - Física/Física B/Movimento circular.md",
+    "02 - Física/Física B/Velocidade.md",
+    "03 - Química/Quimica B/Volume molar.md",
     "00 - Inbox/Quimica B/Aula 21, 22, 23, 24 - Leis ponderais e estequiometria.md",
     "README.md",
     "02 - Física/Física B",
@@ -221,15 +230,7 @@
     "03 - Química/Quimica A/Ligações sigma e pi.md",
     "03 - Química/Quimica A/Química orgânica/Cadeia carbônica.md",
     "03 - Química/Quimica A/Química orgânica/Química orgânica.md",
-    "03 - Química/Quimica A/Solubilidade de compostos orgânicos.md",
     "03 - Química/Quimica A/Química orgânica",
-    "03 - Química/Quimica A/Solubilidade.md",
-    "03 - Química/Quimica A/Regras de solubilidade.md",
-    "03 - Química/Quimica A/Interações intermoleculares.md",
-    "03 - Química/Quimica A/Polaridade.md",
-    "03 - Química/Quimica A/Eletronegatividade.md",
-    "03 - Química/Quimica C/Fila de reatividade.md",
-    "03 - Química/Quimica C/Reação de simples troca.md",
     "03 - Química/Quimica C/Ácidos",
     "03 - Química/Quimica A/Radioatividade",
     "03 - Química/Quimica A/Ligações químicas",
